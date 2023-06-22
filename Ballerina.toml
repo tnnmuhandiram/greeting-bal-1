@@ -1,0 +1,12 @@
+[build-options]
+  observabilityIncluded = true
+
+[package]
+  distribution = "2201.3.1"
+  export = ["greeting_service_tnn_1"]
+  icon = "docs/icon.png"
+  keywords = ["Kind/Sample","Type/Service","Category/Service","Internal/http"]
+  name = "greeting_service_tnn_1"
+  org = "tharindumuhandiram"
+  version = "3.1.1"
+
